@@ -7,9 +7,8 @@
 </div>
 
 ## Tarefas pendentes
-- [ ] Seção de storys.
-- [ ] Efeito hover.
-- [ ] Eventos de click.
+- [X] Seção de storys.
+- [X] Área usuário logado e sugestões para seguir.
+- [X] Footer.
+- [ ] Evento click section storys.
 - [ ] Correções no código.  
-- [ ] Área usuário logado e sugestões para seguir.
-- [ ] Footer.
